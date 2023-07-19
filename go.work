@@ -1,0 +1,24 @@
+go 1.19
+
+use (
+	"./06mytime "
+	./01hello
+	./02variables
+	./03userinput
+	./04conversion
+	./05mymaths
+	./07mypointers
+	./08myarray
+	./09myslices
+	./10mymaps
+	./11mystructs
+	./12ifelse
+	./13switchcase
+	./14loops
+	./15myfunctions
+	./16mymethods
+	./17mydefer
+	./18files
+	./19webrequests
+	./20Urls
+)
